@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-Basic AI programs
+Basic AI - deep learning programs
